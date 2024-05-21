@@ -24,7 +24,7 @@ document.getElementById("submit").onclick = function(){
     nine = document.getElementById("input9").value
     ten = document.getElementById("input10").value
 
-    document.getElementById("result").innerHTML = "I had a " + one + " year this year. I made " + two + " decisions. I think i was a " + four + " person because " + five + ". I think cycle tests are" + three + " . My favourite part of this year was probably " + six + " because I was able to " + seven + " as much as i can. Im " + eight + " because I had this year. And a special thanks to " + nine + ", my year wouldn't be possible without all your " +  ten + ". "
+    document.getElementById("result").innerHTML = "I had a " + one + " year this year. I made " + two + " decisions. I think i was a " + four + " person because " + five + ". I think cycle tests are " + three + " . My favourite part of this year was probably " + six + " because I was able to " + seven + " as much as i can. Im " + eight + " because I had this year. And a special thanks to " + nine + ", my year wouldn't be possible without all your " +  ten + ". "
     console.log(one + two + three + four + five + six + seven + eight + nine + ten)
 }
 /*
